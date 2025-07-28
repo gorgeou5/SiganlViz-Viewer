@@ -1,0 +1,25 @@
+# node_modules
+node_modules/
+
+# 빌드 결과물
+# dist/
+# out/
+
+# Electron 빌드 결과
+# *.log
+# *.tsbuildinfo
+# *.DS_Store
+
+# macOS, Windows 시스템 파일
+Thumbs.db
+.DS_Store
+
+# IDE 편집기 캐시
+.vscode/
+.idea/
+
+# 환경 설정
+.env
+.env.local
+.env.*.local
+
