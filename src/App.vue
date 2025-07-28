@@ -198,7 +198,7 @@ watch([Ainputs, Binputs], generateArrows, { deep: true });
 }
 
 .card-grid {
-  max-width: 1400px;
+  max-width: 1500px;
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
