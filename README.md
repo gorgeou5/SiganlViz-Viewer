@@ -1,29 +1,12 @@
-# vue-project
+# SiganlViz-Viewer
+교통엔지니어링 교통신호기 교차로현시구성 데이터의 시각화를 위해 만들어진 프로그램 입니다.
 
-This template should help get you started developing with Vue 3 in Vite.
+## 개발 환경
+- vue : 3.5.17
+- vite: 7.0.0
+  
 
-## Recommended IDE Setup
+### 프로젝트 구성 멤버
+**최시은** : 개발자
+**윤선일** : 기획, 교통 엔지니어링
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vite.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
